@@ -7,7 +7,7 @@
 
 <br>
 
-## 📜 Sobre a Missão
+## Sobre a Missão
 
 Esta atividade foi enviada diretamente da 'Fortaleza da Solidão' pelo nosso professor — carinhosamente apelidado de **Superman**. A missão é clara: salvar o universo da desordem numérica utilizando a linguagem **C**.
 
