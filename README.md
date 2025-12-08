@@ -7,35 +7,40 @@
 
 <br>
 
-## Sobre a Missão
+## Sobre o Repositório
+A primeira coleção de códigos deste repositório foi uma missão enviada diretamente da 'Fortaleza da Solidão' pelo nosso professor — carinhosamente apelidado de **Superman**. O objetivo era salvar o universo da desordem numérica utilizando a linguagem **C**.
 
-Esta atividade foi enviada diretamente da 'Fortaleza da Solidão' pelo nosso professor — carinhosamente apelidado de **Superman**. A missão é clara: salvar o universo da desordem numérica utilizando a linguagem **C**.
-
-O desafio é dividido em dois atos heroicos:
+Os desafios implementados foram:
 
 1.  **O Método da Força Bruta (BubbleSort):** Implementação do clássico algoritmo da bolha. Ele não voa, mas é persistente, empurrando os maiores números para o final.
-2.  **O Método da Supervelocidade (QuickSort):** Utilização da estratégia "Dividir para Conquistar" (recursividade) para organizar tudo num piscar de olhos.
+2.  **O Método da Supervelocidade (QuickSort):** Utilização da estratégia "Dividir para Conquistar" (recursividade) para organizar vetores num piscar de olhos.
 
-Para ambos os casos, o programa exibe um **relatório de missão** contendo:
-* Tamanho do vetor.
-* Número de ações executadas (comparações + trocas) para medir o esforço computacional.
-* O vetor finalmente ordenado.
+*Para ambos os algoritmos, o código gera um relatório com o tamanho do vetor, o esforço computacional (ações executadas) e o resultado final.*
+
+Roadmap de Estudos
+A ideia é manter este repositório ativo com novos tópicos conforme a disciplina avança. Próximos passos planejados:
+
+[X] Algoritmos de Ordenação (Bubble e Quick)
+[ ] Algoritmos de Busca (Binária e Linear)
+[ ] Estruturas de Dados (Pilhas, Filas e Listas)
+[ ] Árvores e Grafos
+
+##Estrutura do Projeto
+bubblesort.c: Implementação da ordenação por bolha.
+
+quicksort.c: Implementação da ordenação rápida recursiva.
+
+README.md: Documentação e diário de bordo.
+
+<div align="center"> <sub>Desenvolvido com ☕ e código por Daniel Dneutron ⚛️</sub> </div>
 
 ---
 
-## 🚀 Como Executar
+## Como Executar os Algoritmos Atuais
 
 Certifique-se de ter um compilador C (como o GCC) instalado.
 
-### Missão 1: BubbleSort
+### BubbleSort
 ```bash
-# Compilar
 gcc bubblesort.c -o bubblesort
-
-# Executar (Windows)
-./bubblesort.exe
-
-# Executar (Linux/Mac)
-./bubblesort
-</div>
-<br>
+./bubblesort    # (Use ./bubblesort.exe no Windows)
