@@ -1,13 +1,18 @@
-# Mais Rápido que uma Bala: A Saga QuickSort vs. BubbleSort
+# Laboratório de Algoritmos e Estruturas de Dados
 
 <div align="center">
-  <img src="https://github.com/gdanielbarros/project02ead/blob/main/Professor%20Super_Paulimir%20Campus.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #000;">
+  <img src="https://github.com/gdanielbarros/project02ead/blob/main/Professor%20Super_Paulimir%20Campus.png?raw=true" width="150" height="150" style="border-radius: 50%; border: 3px solid #000;">
   <br>
-  <h3>Atividade de Algoritmos – Disciplina de Estrutura de Dados e Algoritmos – Imagem e design ilustrativo – Dneutron. Professor Superman</h3>
+  <h3>Atividades de Algoritmos – Disciplina de Estrutura de Dados e Algoritmos da UPE Caruaru e minhas.</h3>
+  <p><i>Imagem e design ilustrativo por Dneutron. Homenagem ao Professor Superman.</i></p>
+</div>
 
 <br>
 
 ## Sobre o Repositório
+
+Bem-vindo ao meu caderno de estudos digital!
+
 A primeira coleção de códigos deste repositório foi uma missão enviada diretamente da 'Fortaleza da Solidão' pelo nosso professor — carinhosamente apelidado de **Superman**. O objetivo era salvar o universo da desordem numérica utilizando a linguagem **C**.
 
 Os desafios implementados foram:
@@ -17,22 +22,24 @@ Os desafios implementados foram:
 
 *Para ambos os algoritmos, o código gera um relatório com o tamanho do vetor, o esforço computacional (ações executadas) e o resultado final.*
 
-Roadmap de Estudos
+---
+
+## Roadmap de Estudos
+
 A ideia é manter este repositório ativo com novos tópicos conforme a disciplina avança. Próximos passos planejados:
 
-[X] Algoritmos de Ordenação (Bubble e Quick)
-[ ] Algoritmos de Busca (Binária e Linear)
-[ ] Estruturas de Dados (Pilhas, Filas e Listas)
-[ ] Árvores e Grafos
+- [x] Algoritmos de Ordenação (Bubble e Quick)
+- [ ] Algoritmos de Busca (Binária e Linear)
+- [ ] Estruturas de Dados (Pilhas, Filas e Listas)
+- [ ] Árvores e Grafos
 
-##Estrutura do Projeto
-bubblesort.c: Implementação da ordenação por bolha.
+---
 
-quicksort.c: Implementação da ordenação rápida recursiva.
+## Estrutura do Projeto
 
-README.md: Documentação e diário de bordo.
-
-<div align="center"> <sub>Desenvolvido com ☕ e código por Daniel Dneutron ⚛️</sub> </div>
+* `bubblesort.c`: Implementação da ordenação por bolha.
+* `quicksort.c`: Implementação da ordenação rápida recursiva.
+* `README.md`: Documentação e diário de bordo.
 
 ---
 
